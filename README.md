@@ -37,8 +37,8 @@ When a sudden, large movement (free-fall + impact) is detected by the IMU, the d
   - SDA → A4  
   - SCL → A5  
 - 🔔 **Buzzer**:  
-  - + → D3  
-  - – → GND  
+-   + → D3  
+-   – → GND  
 
 ---
 
